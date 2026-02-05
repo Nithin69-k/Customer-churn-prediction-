@@ -1,7 +1,7 @@
 <div align="right">
   
-[1]: https://github.com/praveengouda25
-[2]: https://www.linkedin.com/in/praveen-kumar-bcc2525/
+[1]: https://github.com/Nithin69-k/Customer-churn-prediction-.git
+[2]:(https://www.linkedin.com/in/nithin-k-03795438a)
 
 [![github](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/4f3921b8f8104e2a1fd9ff8dbf2191765a89e228/icons/git.svg)][1]
 [![linkedin](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)][2]
